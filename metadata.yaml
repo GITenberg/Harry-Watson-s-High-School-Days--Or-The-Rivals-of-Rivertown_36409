@@ -1,0 +1,26 @@
+_repo: Harry-Watson-s-High-School-Days--Or-The-Rivals-of-Rivertown_36409
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Webster, Frank V.
+    gutenberg_agent_id: '1955'
+    url: http://www.gutenberg.org/2009/agents/1955
+description: ''
+gutenberg_issued: '2011-06-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36409'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'High school students -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Schools -- Juvenile fiction'
+- !lcsh 'Forgery -- Juvenile fiction'
+title: Harry Watson's High School Days; Or, The Rivals of Rivertown
+url: http://www.gutenberg.org/ebooks/36409
